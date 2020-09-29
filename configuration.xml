@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <appSettings>
+        <add key="REPORT" value="target"/>
+        <add key="WINIUM_URL" value="http://localhost:9999"/>
+        <add key="APPLICATION_PATH" value=""/>
+        <add key="USERNAME" value=""/>
+        <add key="PASSWORD" value=""/>
+        <add key="INVOICER2_USERNAME" value=""/>
+        <add key="INVOICER2_PASSWORD" value=""/>
+
+        <add key ="INVALID_USERNAME" value=""/>
+        <add key ="INVALID_PASSWORD" value=""/>
+        <add key ="ADMIN_USERNAME" value=""/>
+        <add key ="ADMIN_PASSWORD" value=""/>
+        <add key ="PMA_USERNAME" value=""/>
+        <add key ="PMA_PASSWORD" value=""/>
+
+    </appSettings>
+</configuration>
